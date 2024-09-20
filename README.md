@@ -59,7 +59,8 @@ I'm always on a quest to solve data-driven problems and enhance decision-making 
 
 ### 🎉 **Fun Animations**
 
-![Coding GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+![Data Analysis GIF](https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif)
+![Machine Learning GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 ---
 
