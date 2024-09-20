@@ -60,7 +60,7 @@ I'm always on a quest to solve data-driven problems and enhance decision-making 
 ### 🎉 **Fun Animations**
 
 ![Machine Learning GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
-![AI Neural Network GIF]([https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif](https://media.giphy.com/media/5krfq8pMdYhAV52xPg/giphy.gif?cid=ecf05e479knl3sh8c4notl59mxsca82rhx7pk9111bpybgbz&ep=v1_gifs_search&rid=giphy.gif&ct=g))
+![AI Neural Network GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVxczg5cHhwNTBjZnhoMzcxazEwY2tpcnV3eWtqYW54MTRjNmg5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5krfq8pMdYhAV52xPg/giphy.gif)
 
 
 
