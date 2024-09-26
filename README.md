@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst with a strong backgr
 
 ### 💡 **About Me**
 
-I'm always on a quest to solve data-driven problems and enhance decision-making processes through data insights. My journey has involved working on diverse projects ranging from election data analysis to job market trends, all while leveraging Python, SQL, and cloud-based technologies. I believe in the power of teamwork and collaboration to bring innovative solutions to life.
+Always on a quest to solve data-driven problems and enhance decision-making processes through data insights. My journey has involved working on diverse projects ranging from election data analysis to job market trends, all while leveraging Python, SQL, and cloud-based technologies. I believe in the power of teamwork and collaboration to bring innovative solutions to life.
 
 - 🔭 **Current Project:** Lok Sabha Election Data Analysis using Streamlit and MySQL
 - 🌱 **Learning Focus:** Enhancing my skills in Generative AI and advanced data visualization techniques
